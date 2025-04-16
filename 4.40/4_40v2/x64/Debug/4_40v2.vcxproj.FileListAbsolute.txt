@@ -1,0 +1,6 @@
+C:\Users\maks_\Desktop\c++\4_40v2\4_40v2\x64\Debug\4_40v2.vcxproj.AssemblyReference.cache
+C:\Users\maks_\Desktop\c++\4_40v2\4_40v2\x64\Debug\4_40v2.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\maks_\Desktop\c++\4_40v2\4_40v2\x64\Debug\My440v2.Add form people.resources
+C:\Users\maks_\Desktop\c++\4_40v2\4_40v2\x64\Debug\My440v2.menu.resources
+C:\Users\maks_\Desktop\c++\4_40v2\4_40v2\x64\Debug\My440v2.Result.resources
+C:\Users\maks_\Desktop\c++\4_40v2\4_40v2\x64\Debug\4_40v2.vcxproj.GenerateResource.cache

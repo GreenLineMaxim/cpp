@@ -1,0 +1,7 @@
+﻿  Result.cpp
+C:\Users\maks_\Desktop\c++\4_40v2\4_40v2\Header.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\maks_\Desktop\c++\4_40v2\4_40v2\Header.h(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\maks_\Desktop\c++\4_40v2\4_40v2\Result.cpp(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\maks_\Desktop\c++\4_40v2\4_40v2\Result.cpp(5,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Add form people.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  4_40v2.vcxproj -> C:\Users\maks_\Desktop\c++\4_40v2\x64\Debug\4_40v2.exe
