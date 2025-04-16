@@ -1,0 +1,14 @@
+﻿  CreateDrink.cpp
+C:\Users\maks_\Desktop\c++\5_15v2project\5_15v2project\CreateDrink.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\maks_\Desktop\c++\5_15v2project\5_15v2project\Header.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\maks_\Desktop\c++\5_15v2project\5_15v2project\Header.h(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\maks_\Desktop\c++\5_15v2project\5_15v2project\CreateDrink.cpp(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\maks_\Desktop\c++\5_15v2project\5_15v2project\CreateDrink.cpp(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\maks_\Desktop\c++\5_15v2project\5_15v2project\CreateDrink.cpp(5,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Main page.cpp
+C:\Users\maks_\Desktop\c++\5_15v2project\5_15v2project\CreateDrink.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\maks_\Desktop\c++\5_15v2project\5_15v2project\Header.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\maks_\Desktop\c++\5_15v2project\5_15v2project\Header.h(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Создание кода...
+  CreateDrink.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  5_15v2project.vcxproj -> C:\Users\maks_\Desktop\c++\5_15v2project\x64\Debug\5_15v2project.exe

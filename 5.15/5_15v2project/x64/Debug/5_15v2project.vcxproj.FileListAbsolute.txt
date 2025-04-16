@@ -1,0 +1,6 @@
+C:\Users\maks_\Desktop\c++\5_15v2project\5_15v2project\x64\Debug\5_15v2project.vcxproj.AssemblyReference.cache
+C:\Users\maks_\Desktop\c++\5_15v2project\5_15v2project\x64\Debug\5_15v2project.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\maks_\Desktop\c++\5_15v2project\5_15v2project\x64\Debug\My515v2project.CreateDrink.resources
+C:\Users\maks_\Desktop\c++\5_15v2project\5_15v2project\x64\Debug\My515v2project.Main page.resources
+C:\Users\maks_\Desktop\c++\5_15v2project\5_15v2project\x64\Debug\My515v2project.Result.resources
+C:\Users\maks_\Desktop\c++\5_15v2project\5_15v2project\x64\Debug\5_15v2project.vcxproj.GenerateResource.cache
