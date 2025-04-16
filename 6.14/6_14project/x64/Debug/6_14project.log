@@ -1,0 +1,4 @@
+﻿  6_14project.cpp
+C:\Users\maks_\Desktop\c++\6_14project\6_14project\6_14project.cpp(37,46): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\maks_\Desktop\c++\6_14project\6_14project\6_14project.cpp(38,47): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  6_14project.vcxproj -> C:\Users\maks_\Desktop\c++\6_14project\x64\Debug\6_14project.exe
