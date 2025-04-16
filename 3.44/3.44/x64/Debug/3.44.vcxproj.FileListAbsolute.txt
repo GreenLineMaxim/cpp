@@ -1,0 +1,4 @@
+C:\Users\maks_\Desktop\c++\3.44\3.44\x64\Debug\3.44.vcxproj.AssemblyReference.cache
+C:\Users\maks_\Desktop\c++\3.44\3.44\x64\Debug\3.44.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\maks_\Desktop\c++\3.44\3.44\x64\Debug\My344.exercise_3_44.resources
+C:\Users\maks_\Desktop\c++\3.44\3.44\x64\Debug\3.44.vcxproj.GenerateResource.cache
