@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Users\maks_\Desktop\c++\2_1\2_1\Header.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\maks_\Desktop\c++\2_1\2_1\MyForm.cpp(30,13): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\maks_\Desktop\c++\2_1\2_1\MyForm.cpp(30,17): warning C4056: переполнение при арифметических операциях с константой с плавающей точкой
+  2_9.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  2_1.vcxproj -> C:\Users\maks_\Desktop\c++\2_1\x64\Debug\2_1.exe

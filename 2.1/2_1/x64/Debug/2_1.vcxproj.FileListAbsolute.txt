@@ -1,0 +1,4 @@
+C:\Users\maks_\Desktop\c++\2_1\2_1\x64\Debug\2_1.vcxproj.AssemblyReference.cache
+C:\Users\maks_\Desktop\c++\2_1\2_1\x64\Debug\2_1.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\maks_\Desktop\c++\2_1\2_1\x64\Debug\My21.MyForm.resources
+C:\Users\maks_\Desktop\c++\2_1\2_1\x64\Debug\2_1.vcxproj.GenerateResource.cache
